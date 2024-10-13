@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CourierManagementSystem.BusinessLayer",
+    "\\CourierManagementSystem.BusinessLayer\\bin",
+    "\\CourierManagementSystem.BusinessLayer\\bin\\Debug",
+    "\\CourierManagementSystem.BusinessLayer\\Repository",
+    "\\CourierManagementSystem.BusinessLayer\\Service",
+    "\\CourierManagementSystem.Entity",
+    "\\CourierManagementSystem.Entity\\bin",
+    "\\CourierManagementSystem.Entity\\obj",
+    "\\CourierManagementSystem.UI"
+  ],
+  "SelectedNode": "\\CourierManagementSystem.BusinessLayer",
+  "PreviewInSolutionExplorer": false
+}

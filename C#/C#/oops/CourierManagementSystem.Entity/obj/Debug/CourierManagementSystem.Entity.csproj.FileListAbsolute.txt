@@ -1,0 +1,10 @@
+C:\Users\pc\Desktop\Hexaware project\oops\CourierManagementSystem.Entity\bin\Debug\CourierManagementSystem.Entity.dll
+C:\Users\pc\Desktop\Hexaware project\oops\CourierManagementSystem.Entity\bin\Debug\CourierManagementSystem.Entity.pdb
+C:\Users\pc\Desktop\Hexaware project\oops\CourierManagementSystem.Entity\obj\Debug\CourierManagementSystem.Entity.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Hexaware project\oops\CourierManagementSystem.Entity\obj\Debug\CourierManagementSystem.Entity.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Hexaware project\oops\CourierManagementSystem.Entity\obj\Debug\CourierManagementSystem.Entity.dll
+C:\Users\pc\Desktop\Hexaware project\oops\CourierManagementSystem.Entity\obj\Debug\CourierManagementSystem.Entity.pdb
+C:\Users\pc\Desktop\Hexaware project\oops\CourierManagementSystem.Entity\bin\Debug\CourierManagementSystem.BuisnessLayer.dll
+C:\Users\pc\Desktop\Hexaware project\oops\CourierManagementSystem.Entity\bin\Debug\CourierManagementSystem.BuisnessLayer.pdb
+C:\Users\pc\Desktop\Hexaware project\oops\CourierManagementSystem.Entity\bin\Debug\CourierManagementSystem.BuisnessLayer.dll.config
+C:\Users\pc\Desktop\Hexaware project\oops\CourierManagementSystem.Entity\obj\Debug\CourierM.2590C373.Up2Date
