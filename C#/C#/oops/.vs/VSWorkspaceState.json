@@ -6,11 +6,11 @@
     "\\CourierManagementSystem.BusinessLayer\\bin\\Debug",
     "\\CourierManagementSystem.BusinessLayer\\Repository",
     "\\CourierManagementSystem.BusinessLayer\\Service",
-    "\\CourierManagementSystem.Entity",
+    "\\CourierManagementSystem.DatabaseLayer",
     "\\CourierManagementSystem.Entity\\bin",
     "\\CourierManagementSystem.Entity\\obj",
     "\\CourierManagementSystem.UI"
   ],
-  "SelectedNode": "\\CourierManagementSystem.BusinessLayer",
+  "SelectedNode": "\\CourierManagementSystem.DatabaseLayer\\DButil.cs",
   "PreviewInSolutionExplorer": false
 }

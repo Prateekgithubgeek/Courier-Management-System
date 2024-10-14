@@ -393,7 +393,7 @@ namespace AssignmentWork
         //  Task 4 Question 15 Find Similar Addresses
         static void FindSimilarAddresses()
         {
-            string[] addresses = { "1, Lal bagh", "2, Lal bagh", "3, Lal bagh", "4, Lal bagh" };
+            string[] addresses = { "1, Palasia ", "2, Palasia", "3, Palasia", "4, Palasia" };
             Console.WriteLine("\nEnter address to search: ");
             string inputAddress = Console.ReadLine();
 
